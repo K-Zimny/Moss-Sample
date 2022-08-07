@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+
+img {
+  min-height: 100vh;
+  width: 100%;
+}
